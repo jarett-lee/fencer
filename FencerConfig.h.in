@@ -1,0 +1,4 @@
+
+#define Fencer_VERSION_MAJOR @Fencer_VERSION_MAJOR@
+#define Fencer_VERSION_MINOR @Fencer_VERSION_MINOR@
+#define Fencer_VERSION_PATCH @Fencer_VERSION_PATCH@
