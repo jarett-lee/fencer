@@ -15,4 +15,4 @@ configure_file (
 include_directories("${PROJECT_BINARY_DIR}")
 
 # add the executable
-add_executable(Fencer fencer.cxx)
+add_executable(Fencer main.cxx)
